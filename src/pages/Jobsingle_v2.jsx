@@ -1349,8 +1349,8 @@ function Jobsingle_v2(props) {
                   <li>
                     <div className="category">Website</div>
                     <div className="detail">
-                    <Link to="https://themeforest.net/user/FissionFox">
-                        FissionFox.vn
+                    <Link to="https://FissionFox.com">
+                        FissionFox
                       </Link>
                     </div>
                   </li>
