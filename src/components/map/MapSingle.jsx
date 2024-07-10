@@ -26,7 +26,7 @@ function MapSingle({ marKers }) {
         }}
         mapboxAccessToken="pk.eyJ1IjoidGhlbWVzZmxhdCIsImEiOiJjbGt3NGxtYncwa2F2M21saHM3M21uM3h2In0.9NbzjykXil1nELxQ1V8rkA"
         style={{ width: "100%", height: 300 }}
-        mapStyle="mapbox://styles/themesflat/cll6d64hy00m901pd1tbe65ra"
+        mapStyle="mapbox://styles/FissionFox/cll6d64hy00m901pd1tbe65ra"
         scrollZoom={false}
       >
         {marKers.map((item) => {

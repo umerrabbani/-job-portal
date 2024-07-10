@@ -1349,14 +1349,14 @@ function Jobsingle_v2(props) {
                   <li>
                     <div className="category">Website</div>
                     <div className="detail">
-                      <Link to="https://themeforest.net/user/themesflat">
-                        Themesflat.vn
+                      <Link to="https://themeforest.net/user/FissionFox">
+                        FissionFox.vn
                       </Link>
                     </div>
                   </li>
                   <li>
                     <div className="category">Email</div>
-                    <div className="detail">themesflat@gmail.com</div>
+                    <div className="detail">FissionFox@gmail.com</div>
                   </li>
                   <li>
                     <div className="category">Industry</div>
